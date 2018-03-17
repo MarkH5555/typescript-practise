@@ -10,4 +10,4 @@ In the source folder run the following from the command line:
 
 ```*.ts``` will pick up all .ts files and complie them to .js
 
-You can target differnt versions of Ecmascript.  eg, ES5 or ES6
+You can target different versions of Ecmascript.  eg, ES5 or ES6
